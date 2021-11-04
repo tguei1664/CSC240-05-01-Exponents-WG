@@ -1,13 +1,15 @@
 ﻿namespace Exponents
 {
+    // Name: Tehe Leonard wilfred Guei
+    // Date: 11/04/2021
 
     partial class Form1
     {
         /// <summary>
         /// Required designer variable.
         /// </summary>
-        /// NAme: Tehe Leonard Wilfred Guei
-        /// Date : 11/04/2021
+        
+        
         private System.ComponentModel.IContainer components = null;
 
         /// <summary>
@@ -107,6 +109,14 @@
         private System.Windows.Forms.Label xOutputLabel;
         private System.Windows.Forms.Button xGoButton;
         private System.Windows.Forms.Button xResetButton;
+
+        private void InitializeComponent()
+
+        { 
+
+
+        
+
     }
 }
 
