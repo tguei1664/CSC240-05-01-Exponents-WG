@@ -113,6 +113,16 @@
         private void InitializeComponent()
 
         { 
+            this.xInputLabel = new System.Windows.Forms.Label();
+            this.xInputTextBox =new System.Windows.Forms.TextBox();
+            this.xOutputLabel = new System.Windows.Forms.Label();
+            this.xGoButton = new System.Windows.Forms.Button();
+            this.xResetButton = new System.Windows.Forms.Button();
+            
+              //
+            // Labell
+            //
+
 
 
         
