@@ -1,10 +1,13 @@
 ﻿namespace Exponents
 {
+
     partial class Form1
     {
         /// <summary>
         /// Required designer variable.
         /// </summary>
+        /// NAme: Tehe Leonard Wilfred Guei
+        /// Date : 11/04/2021
         private System.ComponentModel.IContainer components = null;
 
         /// <summary>
@@ -18,8 +21,8 @@
                 components.Dispose();
             }
             base.Dispose(disposing);
+  
         }
-
         #region Windows Form Designer generated code
 
         /// <summary>
